@@ -38,6 +38,7 @@ body {
 .player,
 .computer {
   width: 300px;
+  padding: 0px 20px;
   height: 250px;
   background-color: white;
   border-radius: 50px;
