@@ -27,7 +27,7 @@ scissor.addEventListener("click", () => {
   } else if (winner2.textContent === "ქვა") {
     computerstat++;
     stat2.textContent = computerstat;
-    winner.textContent = "კომპიუტერა მოიგო";
+    winner.textContent = "კომპიუტერმა მოიგო";
   } else if (winner2.textContent === "მაკრატელი") {
     winner.textContent = "ფრე";
   }
